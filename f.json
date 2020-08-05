@@ -16,7 +16,7 @@
       "discord_handle": ""
   },
     "about": {
-        "me": "FanceePool is an American Cardano stake pool focused on community engagement and interaction. Originally realized by our founder Tobias Fancee, our objective is to promote Cardano awareness in the cryptocurrency space through engagements on social media. FanceePool utilizes a bare-metal server to reduce costs and optimize performance. Equipped with more-than-capable hardware, we have chosen fees that are low while allowing sustainable operation. Let's decentralize Cardano together!",
+        "me": "FanceePool is an American Cardano stake pool focused on community engagement and interaction. Originally realized by our founder Tobias Fancee, our objective is to promote Cardano awareness in the cryptocurrency space through engagements on social media. FanceePool utilizes a bare-metal server to reduce costs and optimize performance. Equipped with more-than-capable hardware, we have chosen fees that are low yet sustainable. We are here to provide a service to ADA holders worldwide. Let's decentralize Cardano together!",
         "server": "Quad-core CPU, 32 GB of RAM, 500 GB SSD, Fiber Internet Connection"
     }
   }
